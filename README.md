@@ -61,7 +61,7 @@ pm2 status
 ```
 ### keymetrics
 
-When using "monitor for the first time you will get the question to register on keymetrics
+When using "pm2 monitor" for the first time you will get the question to register on keymetrics
 ```
     __ __                          __       _
    / //_/__  __  ______ ___  ___  / /______(_)_________
