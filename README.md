@@ -62,7 +62,7 @@ pm2 monitor app.js
 ```
 pm2 status
 ```
-### keymetrics
+### Keymetrics
 
 When using "pm2 monitor" for the first time you will get the question to register on keymetrics
 ```
