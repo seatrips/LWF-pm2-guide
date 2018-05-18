@@ -1,5 +1,5 @@
 # How to use pm2 with LWF
-guide how to switch to pm2 usage for lwf
+Guide to switch from forever to pm2
 
 ### Steps to take
 
