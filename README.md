@@ -57,6 +57,9 @@ pm2 monit
 pm2 monitor (see note below)
 ```
 ```
+pm2 monitor app.js
+```
+```
 pm2 status
 ```
 ### keymetrics
