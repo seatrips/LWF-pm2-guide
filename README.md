@@ -3,8 +3,6 @@ guide how to switch to pm2 usage for lwf
 
 ### Steps to take
 
-- login to server
-
 ```
 cd lwf-node
 ```
