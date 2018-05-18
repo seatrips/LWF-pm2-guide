@@ -77,5 +77,7 @@ Username:
 ```
 just register and add your node to keymetrics monitoring for free (up to 4 nodes)
 
+you will get a link to the wui to monitor your node
+
 
 
