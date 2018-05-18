@@ -24,4 +24,39 @@ pm2 logrotate
 pm2 set pm2-logrotate:max_size 100M
 ```
 ```
+pm2 start app.js
+```
+
+### updating node
+
+```
+cd lwf-node
+```
+```
+pm2 stop app.js
+```
+```
+./lwf_manager.bash rebuild
+
+```
+### When rebuilding and syncing is done
+
+```
+forever stop app.js
+```
+```
+pm2 start app.js
+```
+
+### To check / Monitor
+
+```
+pm2 monit
+```
+```
+pm2 monitor
+```
+```
+pm2 status
+```
 
