@@ -1,5 +1,5 @@
-# lwf-use-pm2
-switch to pm2 usage for lwf
+# How to use pm2 with LWF
+guide how to switch to pm2 usage for lwf
 
 ### Steps to take
 
