@@ -54,9 +54,28 @@ pm2 start app.js
 pm2 monit
 ```
 ```
-pm2 monitor
+pm2 monitor (see note below)
 ```
 ```
 pm2 status
 ```
+### keymetrics
+
+When using "monitor for the first time you will get the question to register on keymetrics
+```
+    __ __                          __       _
+   / //_/__  __  ______ ___  ___  / /______(_)_________
+  / ,< / _ \/ / / / __ `__ \/ _ \/ __/ ___/ / ___/ ___/
+ / /| /  __/ /_/ / / / / / /  __/ /_/ /  / / /__(__  )
+/_/ |_\___/\__, /_/ /_/ /_/\___/\__/_/  /_/\___/____/
+          /____/
+
+        Harden your Node.js application, today
+
+Now registering to Keymetrics
+Username: 
+```
+just register and add your node to keymetrics monitoring for free (up to 4 nodes)
+
+
 
