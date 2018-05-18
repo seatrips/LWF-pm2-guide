@@ -15,9 +15,11 @@ sudo npm install -g pm2
 ```
 pm2 startup
 ```
+You will be given a line to copy and paste in cmd-line
 ```
 pm2 logrotate
 ```
+You will be given a line to copy and paste in cmd-line
 ```
 pm2 set pm2-logrotate:max_size 100M
 ```
